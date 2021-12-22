@@ -5,8 +5,8 @@
 * 폴더별로 구분하기
 ---
 * Git_GitHub
-    * [Install Git]
-    *
+    * [Git](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)
+    * [GitHub](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)
 
 * Python
     * Numpy
