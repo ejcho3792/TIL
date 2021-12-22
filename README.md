@@ -11,6 +11,11 @@
 * **Python**
     * **Numpy**
     * **Pandas**
+    * **Jump to python**
+        * [자료형]
+        * [제어문]
+        * [함수와 입출력]
+        * [클래스]
     * **Algorithm**
 
 * **R**
