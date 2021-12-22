@@ -14,6 +14,7 @@
     * git remote rm 저장소이름 : 원격 저장소 연결 삭제
 
 3. **Upload commit**
+
     (1) create commit
     ```
     git status  #현재 상태 확인
