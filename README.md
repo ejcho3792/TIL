@@ -4,18 +4,18 @@
 * 나중에 다시 봐도 알 수 있도록 자세히 기록하기
 * 폴더별로 구분하기
 ---
-* Git_GitHub
-    * [Git](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)
-    * [GitHub](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)
+* **Git_GitHub**
+    * [**Git**](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)
+    * [**GitHub**](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)
 
-* Python
-    * Numpy
-    * Pandas
-    * Algorithm
+* **Python**
+    * **Numpy**
+    * **Pandas**
+    * **Algorithm**
 
-* R
-    *
+* **R**
+    
 
-* Machine Learning
+* **Machine Learning**
 
-* Pytorch
+* **Pytorch**
