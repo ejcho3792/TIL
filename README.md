@@ -4,9 +4,6 @@
 * 나중에 다시 봐도 알 수 있도록 자세히 기록하기
 * 폴더별로 구분하기
 ---
-.markdown-body p { 
-    line-height:2.0
-} 
 * ## Git_GitHub
     * ### [Git](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)
     * ### [GitHub](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)
@@ -41,39 +38,25 @@
 
         * #### [그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_4.ipynb)
 
-        1. Anscombe dataset visualization
-
-            plt.figure(), fig.add_subplot(), set_title(), suptitle(), tight_layout()
-
-        2. Matplotlib library - tips dataset
-
-            hist(bins), scatter(), boxplot(), set_xlabel(), set_ylabel()
-
-        3. seaborn library - tips dataset
-
-            warnings.simplefilter(), load_dataset, distplot(), countplot(), regplot(), jointplot(), kdeplot(), barplot(), boxplot(), pairplot(), PairGrid(), lmplot()
-
-        4. DF, Series visualization
-
-            df[column name].plot.hist()
-
-        5. seaborn library graph style
-
-            df.plot.hexbin(),df.plot.box()
+        ##### 1. Anscombe dataset visualization
+        plt.figure(), fig.add_subplot(), set_title(), suptitle(), tight_layout()
+        ##### 2. Matplotlib library - tips dataset
+        hist(bins), scatter(), boxplot(), set_xlabel(), set_ylabel()
+        ##### 3. seaborn library - tips dataset
+        warnings.simplefilter(), load_dataset, distplot(), countplot(), regplot(), jointplot(), kdeplot(), barplot(), boxplot(), pairplot(), PairGrid(), lmplot()
+        ##### 4. DF, Series visualization
+        df[column name].plot.hist()
+        ##### 5. seaborn library graph style
+        df.plot.hexbin(),df.plot.box()
 
         * #### [데이터 연결](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_5.ipynb)
 
-        1. 분석하기 좋은 데이터
-
-        2. 데이터 연결 기초
-
-            (1) 행방향 연결 (pd.concat(df), df.append(new_df), ignore_index)
-
-            (2) 열방향 연결 (pd.concat(df,axis=1))
-
-            (3) 다양한 연결방법 사용 (ignore_index, join)
-
-        3. 데이터 연결 ( merge method )
+        ##### 1. 분석하기 좋은 데이터
+        ##### 2. 데이터 연결 기초
+        (1) 행방향 연결 (pd.concat(df), df.append(new_df), ignore_index)
+        (2) 열방향 연결 (pd.concat(df,axis=1))
+        (3) 다양한 연결방법 사용 (ignore_index, join)
+        ##### 3. 데이터 연결 ( merge method )
 
         * #### [누락값 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_6.ipynb)
 
