@@ -13,7 +13,7 @@
     * ### Pandas
         * #### [판다스 기초](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
 
-        1. 데이터 불러오기 ( read_csv )
+        ##### 1. 데이터 불러오기 ( read_csv )
         
             type(df), df.shape, df.columns, df.head, df.tail
 
