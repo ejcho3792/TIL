@@ -26,17 +26,17 @@
         ##### 4. 그래프 그리기( matplotlib library plot() )   
 
         * #### [데이터프레임과 시리즈](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_3.ipynb)
-        1. 데이터 생성 ( pd.Series, pd.DataFrame )   
-        2. 시리즈 다루기 (1)   
+        ##### 1. 데이터 생성 ( pd.Series, pd.DataFrame )   
+        ##### 2. 시리즈 다루기 (1)   
         (1) df.index, df.values, df.keys()   
         (2) mean, min, max, std   
-        3. 시리즈 다루기 (2)   
+        ##### 3. 시리즈 다루기 (2)   
         series broad casting, pd.sort_index(ascending)   
-        4. 데이터프레임 다루기   
+        ##### 4. 데이터프레임 다루기   
         boolean 추출           
-        5. 데이터 처리하기   
+        ##### 5. 데이터 처리하기   
         data type 변경, data 추가 random, shuffle, drop   
-        6. 데이터 저장하고 불러오기   
+        ##### 6. 데이터 저장하고 불러오기   
         to_pickle(),to_csv, to_csv(sep='\t')   
 
         * #### [그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_4.ipynb)
