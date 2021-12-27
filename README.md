@@ -5,7 +5,7 @@
 * 폴더별로 구분하기
 ---
 .markdown-body p { 
-    line-height:1.0
+    line-height:2.0
 } 
 * ## Git_GitHub
     * ### [Git](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)
