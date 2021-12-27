@@ -15,7 +15,7 @@
 
         **1. 데이터 불러오기 ( read_csv )**
         
-            type(df), df.shape, df.columns, df.head, df.tail
+            \type(df), df.shape, df.columns, df.head, df.tail
 
         **2. 데이터 추출하기**
 
@@ -35,7 +35,7 @@
 
         **2. 시리즈 다루기 (1)**
 
-            /(1) df.index, df.values, df.keys()
+            (1) df.index, df.values, df.keys()
 
             (2) mean, min, max, std
 
