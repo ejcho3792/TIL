@@ -12,11 +12,10 @@
     * ### Numpy
     * ### Pandas
         * #### [판다스 기초](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
-
         ##### 1. 데이터 불러오기 ( read_csv )
-        type(df), df.shape, df.columns, df.head, df.tail
+        type(df), df.shape, df.columns, df.head, df.tail   
         ##### 2. 데이터 추출하기
-        (1) 특정 열 추출 ( df[column name] )
+        (1) 특정 열 추출 ( df[column name] )   
         (2) 특정 행 추출 ( df.loc, df.iloc, range )
         ##### 3. 통계 계산 ( df.mean() )
         df.groupby()[].mean(), df.groupby()[].ununique()
@@ -37,7 +36,6 @@
         to_pickle(),to_csv, to_csv(sep='\t')   
 
         * #### [그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_4.ipynb)
-
         ##### 1. Anscombe dataset visualization
         plt.figure(), fig.add_subplot(), set_title(), suptitle(), tight_layout()
         ##### 2. Matplotlib library - tips dataset
@@ -50,12 +48,11 @@
         df.plot.hexbin(),df.plot.box()
 
         * #### [데이터 연결](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_5.ipynb)
-
-        ##### 1. 분석하기 좋은 데이터
-        ##### 2. 데이터 연결 기초
-        (1) 행방향 연결 (pd.concat(df), df.append(new_df), ignore_index)
-        (2) 열방향 연결 (pd.concat(df,axis=1))
-        (3) 다양한 연결방법 사용 (ignore_index, join)
+        ##### 1. 분석하기 좋은 데이터   
+        ##### 2. 데이터 연결 기초   
+        (1) 행방향 연결 (pd.concat(df), df.append(new_df), ignore_index)   
+        (2) 열방향 연결 (pd.concat(df,axis=1))   
+        (3) 다양한 연결방법 사용 (ignore_index, join)   
         ##### 3. 데이터 연결 ( merge method )
 
         * #### [누락값 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_6.ipynb)
