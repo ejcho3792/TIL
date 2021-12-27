@@ -35,7 +35,7 @@
 
         **2. 시리즈 다루기 (1)**
 
-            (1) df.index, df.values, df.keys()
+            /(1) df.index, df.values, df.keys()
 
             (2) mean, min, max, std
 
@@ -59,7 +59,7 @@
 
         **1. Anscombe dataset visualization**
 
-            plt.figure(), fig.add_subplot(), set_title(), suptitle(), tight_layout()
+            \plt.figure(), fig.add_subplot(), set_title(), suptitle(), tight_layout()
 
         **2. Matplotlib library - tips dataset**
 
