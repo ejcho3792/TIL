@@ -5,13 +5,13 @@
 * 폴더별로 구분하기
 ---
 * ### Git_GitHub
-    * [##### Git](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)
-    * [##### GitHub](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)
+    * #### [Git](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)
+    * #### [GitHub](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)
 
 * ### Python
-    * **Numpy**
-    * **Pandas**
-        * [**판다스 기초**](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
+    * #### Numpy
+    * #### Pandas
+        * ##### [판다스 기초](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
 
         1. 데이터 불러오기 
         
