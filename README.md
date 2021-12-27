@@ -4,6 +4,9 @@
 * 나중에 다시 봐도 알 수 있도록 자세히 기록하기
 * 폴더별로 구분하기
 ---
+.markdown-body p { 
+    line-height:1.0
+} 
 * ## Git_GitHub
     * ### [Git](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)
     * ### [GitHub](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)
@@ -13,7 +16,7 @@
     * ### Pandas
         * #### [판다스 기초](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
 
-        ##### 1. 데이터 불러오기 ( read_csv )
+        1. 데이터 불러오기 ( read_csv )
         
             type(df), df.shape, df.columns, df.head, df.tail
 
