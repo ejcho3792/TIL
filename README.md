@@ -17,12 +17,12 @@
         * #### [판다스 기초](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
 
         ##### 1. 데이터 불러오기 ( read_csv )           
-            - type(df), df.shape, df.columns, df.head, df.tail   
+        type(df), df.shape, df.columns, df.head, df.tail   
         ##### 2. 데이터 추출하기
 
-            (1) 특정 열 추출 ( df[column name] )
+        (1) 특정 열 추출 ( df[column name] )
 
-            (2) 특정 행 추출 ( df.loc, df.iloc, range )
+        (2) 특정 행 추출 ( df.loc, df.iloc, range )
         
         3. 통계 계산 ( df.mean() )
 
