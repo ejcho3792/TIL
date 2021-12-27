@@ -11,12 +11,30 @@
 * **Python**
     * **Numpy**
     * **Pandas**
-        * [**판다스 기초**
-        1. 데이터 불러오기 (read_csv, type(df),df.shape, df.columns, df.head, df.tail)
+        * [**판다스 기초**](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
+
+        1. 데이터 불러오기 
+        
+        read_csv, type(df),df.shape, df.columns, df.head, df.tail
+
         2. 데이터 추출하기
-            (1) 특정 열 추출
-            (2) 특정 행 추출
-            ](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
+
+            (1) 특정 열 추출 
+            
+            df[column name]
+
+            (2) 특정 행 추출 
+            
+            df.loc, df.iloc, range
+        
+        3. 통계 계산
+
+        df.groupby()[].mean(), df.groupby()[].ununique()
+
+        4. 그래프 그리기
+
+        matplotlib plot()
+        
         * [**데이터프레임과 시리즈**](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_3.ipynb)
         * [**그래프 그리기**](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_4.ipynb)
         * [**데이터 연결**](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_5.ipynb)
