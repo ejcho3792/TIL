@@ -9,6 +9,12 @@
     * ### [GitHub](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)
 
 * ## Python
+    * ### [Jump to python]()
+        * #### [**자료형**](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/Data_type.ipynb)
+        * #### [**제어문**](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/If_while_for.ipynb)
+        * #### [**함수와 입출력**](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/Func_input_output.ipynb)
+        * #### [**클래스**]
+
     * ### Numpy
     * ### [Pandas](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/README.md)
         * #### [판다스 기초](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
@@ -17,17 +23,13 @@
         * #### [데이터 연결](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_5.ipynb)
         * #### [누락값 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_6.ipynb)
 
-    * **Jump to python**
-        * [**자료형**](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/Data_type.ipynb)
-        * [**제어문**](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/If_while_for.ipynb)
-        * [**함수와 입출력**](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/Func_input_output.ipynb)
-        * [**클래스**]
-    * **Data analysis**
+
+    * ### Data analysis
         * [**서울시 온도 데이터 분석**](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/seoul_temperature/Seoul_temp_analysis.ipynb)
-    * **Algorithm**
+
+    * ### Algorithm
 
 * ## R
-    
 
 * ## Machine Learning
 
