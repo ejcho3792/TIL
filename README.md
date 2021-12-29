@@ -28,8 +28,8 @@
         * #### [3. 가장 더운 날 찾기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA03_Seoul_max_temp.ipynb)
         * #### [4. 그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA04_graph_style.ipynb)
         * #### [5. 특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_temperature.ipynb)
-        * #### [6. 기온 데이터 시각화]((https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA06_tmp_data_visualization.ipynb))
-        
+        * #### [6. 기온 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA06_tmp_data_visualization.ipynb)
+
     * ### Algorithm
 
 * ## R
