@@ -17,4 +17,4 @@
 (3) Line style( linestyle='line style' or ls='line style' )   
 (4) Marker style   
 (5) x-y graph   
-* #### [5. 특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_tempterature.ipynb)
+* #### [5. 특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_temperature.ipynb)
