@@ -24,11 +24,11 @@
         * #### [누락값 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_6.ipynb)
 
     * ### [Data analysis](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/README.md)
-        * #### [2. 서울시 온도 데이터 분석](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA02_Seoul_temp_analysis.ipynb)
-        * #### [3. 가장 더운 날 찾기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA03_Seoul_max_temp.ipynb)
-        * #### [4. 그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA04_graph_style.ipynb)
-        * #### [5. 특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_temperature.ipynb)
-        * #### [6. 기온 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA06_tmp_data_visualization.ipynb)
+        * #### [서울시 온도 데이터 분석](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA02_Seoul_temp_analysis.ipynb)
+        * #### [가장 더운 날 찾기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA03_Seoul_max_temp.ipynb)
+        * #### [그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA04_graph_style.ipynb)
+        * #### [특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_temperature.ipynb)
+        * #### [기온 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA06_tmp_data_visualization.ipynb)
 
     * ### Algorithm
 
