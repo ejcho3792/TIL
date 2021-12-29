@@ -17,4 +17,16 @@
 (3) Line style( linestyle='line style' or ls='line style' )   
 (4) Marker style   
 (5) x-y graph   
-* #### [5. 특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_temperature.ipynb)
+
+* #### [5. 특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_temperature.ipynb)   
+
+* #### [6. 기온 데이터 시각화]((https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA06_tmp_data_visualization.ipynb))   
+##### 1. 히스토그램 ( hist() )   
+(1) 주사위 굴리기   
+(2) 기온 데이터 히스토그램   
+(3) 특정 월의 기온 히스토그램   
+(4) 2개 월의 기온 히스토그램   
+##### 2. 박스플롯 ( boxplot() )   
+(1) 임의의 숫자를 이용한 박스플롯   
+(2) 기온 데이터 박스플롯
+(3) 기온 데이터의 월별 박스플롯
