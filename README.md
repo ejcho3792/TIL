@@ -30,9 +30,10 @@
         * #### [특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_temperature.ipynb)
         * #### [기온 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA06_tmp_data_visualization.ipynb)
 
+        * #### [numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
     * ### Algorithm
 
-* ## R
+* ## Java(https://github.com/ejcho3792/TIL/blob/master/Java/README.md)
 
 * ## Machine Learning
 

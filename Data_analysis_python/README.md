@@ -30,3 +30,12 @@
 (1) 임의의 숫자를 이용한 박스플롯   
 (2) 기온 데이터 박스플롯
 (3) 기온 데이터의 월별 박스플롯
+
+
+
+
+* #### [numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
+##### 1. matplotlib 
+(1) numpy 라이브러리를 사용
+(2) python list를 사용
+##### 2. numpy 라이브러리
