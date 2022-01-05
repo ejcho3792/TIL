@@ -1,7 +1,7 @@
 # Data Analysis using Python
 ---
 ## INDEX
-[UNIT 02. 서울시 온도 데이터 분석](*-####-[UNIT-02.-서울시-온도-데이터-분석](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA02_Seoul_temp_analysis.ipynb))
+[UNIT 02. 서울시 온도 데이터 분석](#UNIT-02.-서울시-온도-데이터-분석)
 
 * #### [UNIT 02. 서울시 온도 데이터 분석](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA02_Seoul_temp_analysis.ipynb)
 ##### 1. 데이터 불러와서 출력
