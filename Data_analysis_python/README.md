@@ -36,6 +36,18 @@
 
 * #### [numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
 ##### 1. matplotlib 
-(1) numpy 라이브러리를 사용
-(2) python list를 사용
+(1) numpy 라이브러리를 사용   
+(2) python list를 사용   
 ##### 2. numpy 라이브러리
+(1) 삼각함수와 파이   
+(2) random.rand, random.randint   
+(3) random.choice   
+##### 3. numpy 라이브러리를 활용해 그래프 그리기
+##### 4.  numpy array 생성하기
+(1) ndarray의 기본적인 특징
+(2) np.zeros, ones, eye
+(3) np.arange, linspace
+##### 5. numpy array의 다양한 활용
+(1) ndarray
+(2) graph
+(3) mask
