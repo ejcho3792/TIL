@@ -44,10 +44,10 @@
 (3) random.choice   
 ##### 3. numpy 라이브러리를 활용해 그래프 그리기
 ##### 4.  numpy array 생성하기
-(1) ndarray의 기본적인 특징
-(2) np.zeros, ones, eye
-(3) np.arange, linspace
+(1) ndarray의 기본적인 특징   
+(2) np.zeros, ones, eye   
+(3) np.arange, linspace   
 ##### 5. numpy array의 다양한 활용
-(1) ndarray
-(2) graph
-(3) mask
+(1) ndarray   
+(2) graph   
+(3) mask   
