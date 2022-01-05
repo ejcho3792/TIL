@@ -1,16 +1,18 @@
 # Data Analysis using Python
 ---
+## INDEX
+[UNIT 02. 서울시 온도 데이터 분석](*-####-[UNIT-02.-서울시-온도-데이터-분석])
 
-* #### [서울시 온도 데이터 분석](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA02_Seoul_temp_analysis.ipynb)
+* #### [UNIT 02. 서울시 온도 데이터 분석](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA02_Seoul_temp_analysis.ipynb)
 ##### 1. 데이터 불러와서 출력
 (open, csv.reader,print())
 ##### 2. 헤더 저장 ( next() )   
 
-* #### [가장 더운 날 찾기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA03_Seoul_max_temp.ipynb)
+* #### [UNIT 03. 가장 더운 날 찾기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA03_Seoul_max_temp.ipynb)
 ##### 1. 가장 더웠던 날짜와 온도 찾기   
 ##### 2. pandas library 이용   
 
-* #### [그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA04_graph_style.ipynb)
+* #### [UNIT 04. 그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA04_graph_style.ipynb)
 ##### 1. matplotlib library   
 (1) Set legend ( label = 'name' )   
 (2) Graph color( color='color name' )   
@@ -18,9 +20,9 @@
 (4) Marker style   
 (5) x-y graph   
 
-* #### [특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_temperature.ipynb)   
+* #### [UNIT 05. 특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_temperature.ipynb)   
 
-* #### [기온 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA06_tmp_data_visualization.ipynb)) 
+* #### [UNIT 06. 기온 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA06_tmp_data_visualization.ipynb)) 
 ##### 1. 히스토그램 ( hist() )   
 (1) 주사위 굴리기   
 (2) 기온 데이터 히스토그램   
@@ -31,10 +33,10 @@
 (2) 기온 데이터 박스플롯
 (3) 기온 데이터의 월별 박스플롯
 
+* #### [UNIT 07. 우리 동네 인구 구조 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA07_population_visualization.ipynb)
 
 
-
-* #### [numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
+* #### [UNIT 13. numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
 ##### 1. matplotlib 
 (1) numpy 라이브러리를 사용   
 (2) python list를 사용   
