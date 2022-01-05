@@ -32,6 +32,7 @@
         * #### [우리 동네 인구 구조 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA07_population_visualization.ipynb)
         * #### [다양한 방법으로 인구 구조 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA08_population_barplot.ipynb)   
         * #### [파이차트로 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA09_population_pie_chart.ipynb)
+        * #### [산점도로 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA10_population_scatter.ipynb)
 
 
 
