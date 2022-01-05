@@ -29,6 +29,15 @@
         * #### [그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA04_graph_style.ipynb)
         * #### [특정 날짜의 기온변화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA05_oneday_temperature.ipynb)
         * #### [기온 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA06_tmp_data_visualization.ipynb)
+        * #### [우리 동네 인구 구조 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA07_population_visualization.ipynb)
+        * #### [다양한 방법으로 인구 구조 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA08_population_barplot.ipynb)   
+        * #### [파이차트로 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA09_population_pie_chart.ipynb)
+
+
+
+
+
+
 
         * #### [numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
     * ### Algorithm
