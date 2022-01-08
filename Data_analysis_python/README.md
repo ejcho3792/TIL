@@ -79,18 +79,18 @@
 (5) 모든 역에 대한 시간별 승하차 인원 추이   
 * #### [UNIT 13. numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
 (1) matplotlib   
-- numpy 라이브러리를 사용   
-- python list를 사용   
+numpy 라이브러리를 사용   
+python list를 사용   
 (2) numpy 라이브러리   
-- 삼각함수와 파이   
-- random.rand, random.randint   
-- random.choice   
+삼각함수와 파이   
+random.rand, random.randint   
+random.choice   
 (3) numpy 라이브러리를 활용해 그래프 그리기   
 (4) numpy array 생성하기   
-- ndarray의 기본적인 특징   
-- np.zeros, ones, eye   
-- np.arange, linspace   
+ndarray의 기본적인 특징   
+np.zeros, ones, eye   
+np.arange, linspace   
 (5) numpy array의 다양한 활용   
-- ndarray   
-- graph   
-- mask   
+ndarray   
+graph   
+mask   
