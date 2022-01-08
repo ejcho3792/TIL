@@ -11,7 +11,7 @@
 [09. 파이차트로 시각화](#unit-09-파이차트로-시각화)   
 [10. 산점도로 시각화](#unit-10-산점도로-시각화)   
 [11. 대중교통 데이터 시각화](#unit-11-대중교통-데이터-시각화)   
-[12. 시간별 대중교통 데이터 시각화](#unit-12-시간별-대중교통-데이터-시각화) 
+[12. 시간별 대중교통 데이터 시각화](#unit-12-시간별-대중교통-데이터-시각화)   
 [13. numpy 라이브러리](#unit-13-numpy-라이브러리)   
 
 
@@ -78,19 +78,19 @@
 (4) 시간대별 하차인원이 많은 역   
 (5) 모든 역에 대한 시간별 승하차 인원 추이   
 * #### [UNIT 13. numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
-##### 1. matplotlib 
-(1) numpy 라이브러리를 사용   
-(2) python list를 사용   
-##### 2. numpy 라이브러리
-(1) 삼각함수와 파이   
-(2) random.rand, random.randint   
-(3) random.choice   
-##### 3. numpy 라이브러리를 활용해 그래프 그리기
-##### 4.  numpy array 생성하기
-(1) ndarray의 기본적인 특징   
-(2) np.zeros, ones, eye   
-(3) np.arange, linspace   
-##### 5. numpy array의 다양한 활용
-(1) ndarray   
-(2) graph   
-(3) mask   
+(1) matplotlib   
+- numpy 라이브러리를 사용   
+- python list를 사용   
+(2) numpy 라이브러리   
+- 삼각함수와 파이   
+- random.rand, random.randint   
+- random.choice   
+(3) numpy 라이브러리를 활용해 그래프 그리기   
+(4) numpy array 생성하기   
+- ndarray의 기본적인 특징   
+- np.zeros, ones, eye   
+- np.arange, linspace   
+(5) numpy array의 다양한 활용   
+- ndarray   
+- graph   
+- mask   
