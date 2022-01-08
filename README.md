@@ -36,6 +36,9 @@
         * #### [대중교통 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA04_transport/DA11_transport_visualization.ipynb)
         * #### [시간별 대중교통 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA04_transport/DA12_transport_time_visualization.ipynb)
         * #### [numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
+        * #### [numpy 프로젝트 생성](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA14_Numpy_project.ipynb)
+        * #### [pandas 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA15_Pandas_library.ipynb)
+
     * ### Algorithm
 
 * ## Java(https://github.com/ejcho3792/TIL/blob/master/Java/README.md)
