@@ -88,3 +88,5 @@
 (2) 관심지역 입력받기
 (3) 관심지역과 가장 유사한 인구 구조를 가진 지역 찾기
 * #### [UNIT 15. pandas 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA15_Pandas_library.ipynb)
+(1) 위키백과 데이터 엑셀로 저장
+(2) 데이터프레임 기초
