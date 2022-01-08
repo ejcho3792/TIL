@@ -13,8 +13,8 @@
 [11. 대중교통 데이터 시각화](#unit-11-대중교통-데이터-시각화)   
 [12. 시간별 대중교통 데이터 시각화](#unit-12-시간별-대중교통-데이터-시각화)   
 [13. numpy 라이브러리](#unit-13-numpy-라이브러리)   
-
-
+[14. numpy 프로젝트 생성](#unit-14-numpy-프로젝트-생성)   
+[15. pandas 라이브러리](#unit-15-pandas-라이브러리)
 ---
 
 * #### [UNIT 02. 서울시 온도 데이터 분석](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA02_Seoul_temp_analysis.ipynb)
@@ -78,19 +78,13 @@
 (4) 시간대별 하차인원이 많은 역   
 (5) 모든 역에 대한 시간별 승하차 인원 추이   
 * #### [UNIT 13. numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
-(1) matplotlib   
-numpy 라이브러리를 사용   
-python list를 사용   
-(2) numpy 라이브러리   
-삼각함수와 파이   
-random.rand, random.randint   
-random.choice   
+(1) matplotlib(numpy 라이브러리,python list를 사용)   
+(2) numpy 라이브러리(삼각함수와 파이, random.rand, random.randint, random.choice)   
 (3) numpy 라이브러리를 활용해 그래프 그리기   
-(4) numpy array 생성하기   
-ndarray의 기본적인 특징   
-np.zeros, ones, eye   
-np.arange, linspace   
-(5) numpy array의 다양한 활용   
-ndarray   
-graph   
-mask   
+(4) numpy array 생성하기(np.zeros, ones, eye,np.arange, linspace)   
+(5) numpy array의 다양한 활용(ndarray, graph, mask)   
+* #### [UNIT 14. numpy 프로젝트 생성](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA14_Numpy_project.ipynb)
+(1) 데이터 불러오기
+(2) 관심지역 입력받기
+(3) 관심지역과 가장 유사한 인구 구조를 가진 지역 찾기
+* #### [UNIT 15. pandas 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA15_Pandas_library.ipynb)
