@@ -33,13 +33,8 @@
         * #### [다양한 방법으로 인구 구조 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA08_population_barplot.ipynb)   
         * #### [파이차트로 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA09_population_pie_chart.ipynb)
         * #### [산점도로 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA03_population/DA10_population_scatter.ipynb)
-
-
-
-
-
-
-
+        * #### [대중교통 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA04_transport/DA11_transport_visualization.ipynb)
+        * #### [시간별 대중교통 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA04_transport/DA12_transport_time_visualization.ipynb)
         * #### [numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
     * ### Algorithm
 

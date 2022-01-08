@@ -10,8 +10,8 @@
 [08. 다양한 방법으로 인구 구조 시각화](#unit-08-다양한-방법으로-인구-구조-시각화)   
 [09. 파이차트로 시각화](#unit-09-파이차트로-시각화)   
 [10. 산점도로 시각화](#unit-10-산점도로-시각화)   
-
-
+[11. 대중교통 데이터 시각화](#unit-11-대중교통-데이터-시각화)   
+[12. 시간별 대중교통 데이터 시각화](#unit-12-시간별-대중교통-데이터-시각화) 
 [13. numpy 라이브러리](#unit-13-numpy-라이브러리)   
 
 
@@ -65,13 +65,18 @@
 (3) 산점도란   
 (4) 버블차트로 표현   
 (5) 제주도 연령대 별 성별 비율을 산점도로 표현
-
-
-
-
-
-
-
+* #### [UNIT 11. 대중교통 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA04_transport/DA11_transport_visualization.ipynb)
+(1) 대중교통 데이터 내려받기   
+(2) 지하철 유무임별 이용현황   
+(3) 유임승차 비율이 가장 높은 역 찾기   
+(4) 유무임 승하차 인원이 가장 많은 역 찾기   
+(5) 모든 역의 유무임 승하차 비율   
+* #### [UNIT 12. 시간별 대중교통 데이터 시각화](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA04_transport/DA12_transport_time_visualization.ipynb)
+(1) 시간대별 이용현황 전처리   
+(2) 출근시간 최다 이용 역 찾기   
+(3) 시간을 입력받아 해당 시간에 최다 이용 역 찾기   
+(4) 시간대별 하차인원이 많은 역   
+(5) 모든 역에 대한 시간별 승하차 인원 추이   
 * #### [UNIT 13. numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
 ##### 1. matplotlib 
 (1) numpy 라이브러리를 사용   
