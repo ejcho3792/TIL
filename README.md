@@ -39,6 +39,10 @@
         * #### [numpy 프로젝트 생성](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA14_Numpy_project.ipynb)
         * #### [pandas 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA15_Pandas_library.ipynb)
 
+    * ### [Data crawling](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/README.md)
+        * #### [pandas 기초](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC02_data_analysis_basic/DC02_01_pandas.ipynb)
+
+
     * ### Algorithm
 
 * ## Java(https://github.com/ejcho3792/TIL/blob/master/Java/README.md)
