@@ -4,12 +4,16 @@
 * 나중에 다시 봐도 알 수 있도록 자세히 기록하기
 * 폴더별로 구분하기
 ---
-* ## Git_GitHub
-    * ### [Git](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)
-    * ### [GitHub](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)
+* ## [Git_GitHub](https://github.com/ejcho3792/TIL/tree/master/Git_GitHub)   
+    * ### [Git](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)   
+    * ### [GitHub](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)   
 
-* ## Python
-    * ### [Jump to python]()
+* ## [HTML](https://github.com/ejcho3792/TIL/blob/master/html/README.md)   
+https://opentutorials.org/course/2039
+
+* ## [Python](https://github.com/ejcho3792/TIL/tree/master/Python)
+    * ### [Jump to python](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python)
+        https://wikidocs.net/book/1
         * #### [자료형](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/Data_type.ipynb)
         * #### [제어문](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/If_while_for.ipynb)
         * #### [함수와 입출력](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/Func_input_output.ipynb)
@@ -23,6 +27,7 @@
         * #### [누락값 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_6.ipynb)
 
     * ### [Data analysis](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/README.md)
+        * #### [파이썬 기초](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA00_python_tutorial/DA01_python_basic.ipynb)
         * #### [서울시 온도 데이터 분석](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA02_Seoul_temp_analysis.ipynb)
         * #### [가장 더운 날 찾기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA03_Seoul_max_temp.ipynb)
         * #### [그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA02_visualization/DA04_graph_style.ipynb)
