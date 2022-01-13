@@ -41,7 +41,7 @@
     * ### [Data crawling](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/README.md)
         * #### [pandas 기초](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC02_data_analysis_basic/DC02_01_pandas.ipynb)
         * #### [Crawling](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC02_data_analysis_basic/DC02_02_Crawling.ipynb)
-
+        * #### [Music Service](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC03_data_analysis_exercise/DC03_01_music_service.ipynb)   
 
 
 
