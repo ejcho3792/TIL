@@ -1,6 +1,8 @@
 # Data Analysis using Python
 ---
+(모두의 데이터 분석 with 파이썬)
 ## INDEX
+[01. 파이썬 기초](#unit-01-파이썬-기초)   
 [02. 서울시 온도 데이터 분석](#unit-02-서울시-온도-데이터-분석)   
 [03. 가장 더운 날 찾기](#unit-03-가장-더운-날-찾기)   
 [04. 그래프 그리기](#unit-04-그래프-그리기)   
@@ -16,6 +18,19 @@
 [14. numpy 프로젝트 생성](#unit-14-numpy-프로젝트-생성)   
 [15. pandas 라이브러리](#unit-15-pandas-라이브러리)
 ---
+* #### [UNIT 01. 파이썬 기초](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA00_python_tutorial/DA01_python_basic.ipynb)
+##### 1. 입력과 출력, 변수   
+(1) 출력 ( print() )   
+(2) 변수   
+(3) 입력 ( input() )   
+##### 2. 연산자   
+(1) 산술연산   
+(2) 비교연산   
+(3) 논리연산   
+##### 3. 함수   
+##### 4. 반복문   
+##### 5. 조건문   
+##### 6. 리스트   
 
 * #### [UNIT 02. 서울시 온도 데이터 분석](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA02_Seoul_temp_analysis.ipynb)
 ##### 1. 데이터 불러와서 출력
