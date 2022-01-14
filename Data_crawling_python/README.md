@@ -1,11 +1,16 @@
 # Data Crawling using Python
 직장인을 위한 데이터 분석 실무 with 파이썬
 ## INDEX
-[0101. python 기초](#0101-python-기초)
+[0101. python 기초](#0101-python-기초)   
 [0201. pandas 기초](#0201-pandas-기초)   
-[0202. Crawling](#0202-crawling)
-[0301. Music Service](#0301-music-service)
-[0302. YouTube Ranking](#0302-youtube-ranking)
+[0202. Crawling](#0202-crawling)   
+[0301. Music Service](#0301-music-service)   
+[0302. YouTube Ranking](#0302-youtube-ranking)   
+[0401. Tourist Data Processing](#0401-tourist-data-processing)   
+[0402. Tourist Data Visualization](#0402-tourist-data-visualization)   
+
+
+
 
 
 ---
@@ -54,6 +59,28 @@
 ##### 4. 크롤링 파일 통합하기   
 
 * ### [0302. YouTube Ranking](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC03_data_analysis_exercise/DC03_02_youtube_ranking.ipynb)   
-
 ##### 1. YouTube 랭킹 데이터 수집   
 ##### 2. 랭킹 데이터 시각화하기   
+
+* ### [0401. Tourist Data Processing](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC04_tourists_event/DC04_01_tourist_data_processing.ipynb)   
+##### 1. 데이터 다운로드   
+##### 2. 데이터 전처리   
+##### 3. 전처리 과정을 함수로 만들기   
+##### 4. 전체 데이터 파일을 불러와서 하나로 합치기   
+##### 5. 국가별 데이터를 구분하여 저장하기   
+
+* ### [0402. Tourist Data Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC04_tourists_event/DC04_02_tourist_data_visualization.ipynb)   
+##### 1. 시계열 그래프 그리기   
+##### 2. 히트맵 그래프 그리기   
+
+
+
+
+
+
+
+
+
+
+
+
