@@ -5,16 +5,16 @@
 * 폴더별로 구분하기
 ---
 # INDEX   
-## [1. Git & GitHub](#git_github)   
-## [2. HTML](#html)   
-## [3. Python](#python)   
-### [(1) Jump to python](#jump-to-python)   
-### [(2) Pandas](#pandas)   
-### [(3) Data analysis](#data-analysis)   
-### [(4) Data crawling](#data-crawling)   
-## [4. Java](#java)   
-## [5. Machine Learning](#machine-learning)   
-## [6. Pytorch](#pytorch)   
+### [1. Git & GitHub](#git_github)
+### [2. HTML](#html)
+### [3. Python](#python)   
+#### [(1) Jump to python](#jump-to-python)   
+#### [(2) Pandas](#pandas)   
+#### [(3) Data analysis](#data-analysis)   
+#### [(4) Data crawling](#data-crawling)   
+### [4. Java](#java)   
+### [5. Machine Learning](#machine-learning)   
+### [6. Pytorch](#pytorch)   
 
 ---
 
