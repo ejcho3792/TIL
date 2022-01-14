@@ -48,8 +48,8 @@ https://opentutorials.org/course/2039
         * #### [Crawling](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC02_data_analysis_basic/DC02_02_Crawling.ipynb)
         * #### [Music Service](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC03_data_analysis_exercise/DC03_01_music_service.ipynb)   
         * #### [YouTube Ranking](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC03_data_analysis_exercise/DC03_02_youtube_ranking.ipynb)   
-
-
+        * #### [Tourist Data Processing](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC04_tourists_event/DC04_01_tourist_data_processing.ipynb)
+        * #### [Tourist Data Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC04_tourists_event/DC04_02_tourist_data_visualization.ipynb)
 
 
 
