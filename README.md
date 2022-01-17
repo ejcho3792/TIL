@@ -21,10 +21,9 @@
 * ## [Git_GitHub](https://github.com/ejcho3792/TIL/tree/master/Git_GitHub)   
     * ### [Git](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/git_vscode.md)   
     * ### [GitHub](https://github.com/ejcho3792/TIL/blob/master/Git_GitHub/github.md)   
-
-* ## [HTML](https://github.com/ejcho3792/TIL/blob/master/html/README.md)   
-https://opentutorials.org/course/2039
-
+---
+* ## [HTML](https://github.com/ejcho3792/TIL/blob/master/html/README.md)[ (Link) ](https://opentutorials.org/course/2039)   
+---
 * ## [Python](https://github.com/ejcho3792/TIL/tree/master/Python)
     * ### [Jump to python](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python)
         https://wikidocs.net/book/1
@@ -32,14 +31,14 @@ https://opentutorials.org/course/2039
         * #### [제어문](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/If_while_for.ipynb)
         * #### [함수와 입출력](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/Func_input_output.ipynb)
         * #### [클래스]
-
+    ---
     * ### [Pandas](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/README.md)
         * #### [판다스 기초](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
         * #### [데이터프레임과 시리즈](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_3.ipynb)
         * #### [그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_4.ipynb)
         * #### [데이터 연결](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_5.ipynb)
         * #### [누락값 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_6.ipynb)
-
+    ---
     * ### [Data analysis](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/README.md)
         * #### [파이썬 기초](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA00_python_tutorial/DA01_python_basic.ipynb)
         * #### [서울시 온도 데이터 분석](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA01_seoul_temperature/DA02_Seoul_temp_analysis.ipynb)
@@ -56,7 +55,7 @@ https://opentutorials.org/course/2039
         * #### [numpy 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA13_Numpy_library.ipynb)
         * #### [numpy 프로젝트 생성](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA14_Numpy_project.ipynb)
         * #### [pandas 라이브러리](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA05_python_library/DA15_Pandas_library.ipynb)
-
+    ---
     * ### [Data crawling](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/README.md)
         * #### [pandas 기초](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC02_data_analysis_basic/DC02_01_pandas.ipynb)
         * #### [Crawling](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC02_data_analysis_basic/DC02_02_Crawling.ipynb)
@@ -74,9 +73,9 @@ https://opentutorials.org/course/2039
 
 
 
-
+---
 * ## [Java](https://github.com/ejcho3792/TIL/blob/master/Java/README.md)
-
+---
 * ## Machine Learning
-
+---
 * ## Pytorch
