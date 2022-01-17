@@ -8,9 +8,9 @@
 [0302. YouTube Ranking](#0302-youtube-ranking)   
 [0401. Tourist Data Processing](#0401-tourist-data-processing)   
 [0402. Tourist Data Visualization](#0402-tourist-data-visualization)   
-
-
-
+[0501. Jeju Hot Place](#0501-jeju-hot_place) 
+[0502. Word Cloud](#0502-word-cloud)
+[0503. Map Visualization](#0503-map-visualization)
 
 
 ---
@@ -73,14 +73,18 @@
 ##### 1. 시계열 그래프 그리기   
 ##### 2. 히트맵 그래프 그리기   
 
+* ### [0501. Jeju Hot Place](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_01_jeju_hot_place.ipynb)   
 
+##### 1. 게시글 정보 가져오기   
+##### 2. 여러 게시글 정보 수집하기   
+##### 3. 수집 데이터 저장   
+##### 4. 여러 데이터의 중복을 제거하여 통합저장하기   
 
+* ### [0502. Word Cloud](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_02_word_cloud.ipynb)   
+##### 1. 해시태그 출현 빈도 집계   
+##### 2. 막대 차트 그리기   
+##### 3. 워드 클라우드 그리기   
 
-
-
-
-
-
-
+* ### [0503. Map Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_03_map_visualization.ipynb)   
 
 
