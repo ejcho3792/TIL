@@ -64,8 +64,9 @@ https://opentutorials.org/course/2039
         * #### [YouTube Ranking](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC03_data_analysis_exercise/DC03_02_youtube_ranking.ipynb)   
         * #### [Tourist Data Processing](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC04_tourists_event/DC04_01_tourist_data_processing.ipynb)
         * #### [Tourist Data Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC04_tourists_event/DC04_02_tourist_data_visualization.ipynb)
-
-
+        * #### [Jeju Hotplace](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hotplace/DC05_01_jeju_hotplace.ipynb)
+        * #### [Word Cloud](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_02_word_cloud.ipynb)   
+        * #### [0503. Map Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_03_map_visualization.ipynb)   
 
 
 
