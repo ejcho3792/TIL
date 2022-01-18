@@ -86,5 +86,7 @@
 ##### 3. 워드 클라우드 그리기   
 
 * ### [0503. Map Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_03_map_visualization.ipynb)   
+##### 1. 데이터 불러오기   
+##### 2. 카카오 api 이용하여 장소 검색하기   
 
-
+* ### [0504. Find Words](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_04_find_words.ipynb)   

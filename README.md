@@ -29,8 +29,8 @@
 ---
 
 * ## [Python](https://github.com/ejcho3792/TIL/tree/master/Python)
-    * ### [Jump to python](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python)
-        https://wikidocs.net/book/1
+    * ### [Jump to python](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python)[ (Link) ](https://wikidocs.net/book/1)
+        
         * #### [자료형](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/Data_type.ipynb)
         * #### [제어문](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/If_while_for.ipynb)
         * #### [함수와 입출력](https://github.com/ejcho3792/TIL/blob/master/Python/Jump_to_python/Func_input_output.ipynb)
@@ -76,7 +76,7 @@
         * #### [Jeju Hotplace](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hotplace/DC05_01_jeju_hotplace.ipynb)
         * #### [Word Cloud](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_02_word_cloud.ipynb)   
         * #### [Map Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_03_map_visualization.ipynb)   
-
+        * ### [Find Words](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_04_find_words.ipynb)   
 
 
 
