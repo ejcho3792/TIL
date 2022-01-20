@@ -78,7 +78,7 @@
         * #### [Map Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_03_map_visualization.ipynb)   
         * #### [Find Words](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC05_jeju_hot_place/DC05_04_find_words.ipynb)   
         * #### [Crawling Starbucks](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC06_starbucks_location/DC06_01_crawling_starbucks.ipynb)   
-        * ### [Starbucks Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC06_starbucks_location/DC06_02_starbucks_visualization.ipynb)   
+        * #### [Starbucks Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC06_starbucks_location/DC06_02_starbucks_visualization.ipynb)   
 
 
 
