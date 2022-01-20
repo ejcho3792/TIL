@@ -18,7 +18,7 @@
    
    
    
-   
+
 ---
 * ### [0101. python 기초](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC01_python_basic/DC01_01_python.ipynb)   
 ##### 1. 입력 및 출력   
@@ -104,6 +104,10 @@
 * ### [0602. Starbucks Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC06_starbucks_location/DC06_02_starbucks_visualization.ipynb)   
 ##### 1. 데이터 가공   
 ##### 2. 시각화   
+##### 3. 시군구별 매장 수 시각화   
+##### 4. 매장 수와 인구수 비교   
+##### 5. 매장 수와 사업체 수 비교   
+
 
 
 
