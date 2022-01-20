@@ -13,6 +13,7 @@
 [0503. Map Visualization](#0503-map-visualization)   
 [0504. Find Words](#0504-find-words)   
 [0601. Crawling Starbucks](#0601-crawling-starbucks)   
+[0602. Starbucks Visualization](#0602-starbucks-visualization)   
    
    
    
@@ -99,6 +100,20 @@
 * ### [0601. Crawling Starbucks](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC06_starbucks_location/DC06_01_crawling_starbucks.ipynb)   
 ##### 1. 스타벅스 매장 찾기   
 ##### 2. 시군구별 스타벅스 매장 수 세기   
+
+* ### [0602. Starbucks Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC06_starbucks_location/DC06_02_starbucks_visualization.ipynb)   
+##### 1. 데이터 가공   
+##### 2. 시각화   
+
+
+
+
+
+
+
+
+
+
 
 
 
