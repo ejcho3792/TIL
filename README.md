@@ -80,7 +80,7 @@
         * #### [Crawling Starbucks](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC06_starbucks_location/DC06_01_crawling_starbucks.ipynb)   
         * #### [Starbucks Visualization](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC06_starbucks_location/DC06_02_starbucks_visualization.ipynb)   
         * #### [Crawling Danawa](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC07_best_product/DC07_01_crawling_danawa.ipynb)   
-        * ### [Crawling Monitor](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC07_best_product/DC07_02_crawling_monitor.ipynb)   
+        * #### [Crawling Monitor](https://github.com/ejcho3792/TIL/blob/master/Data_crawling_python/DC07_best_product/DC07_02_crawling_monitor.ipynb)   
 
 ---
 * ## [Java](https://github.com/ejcho3792/TIL/blob/master/Java/README.md)
