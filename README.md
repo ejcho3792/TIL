@@ -103,4 +103,10 @@
 ---
 * ## Machine Learning
 ---
-* ## [Pytorch](https://github.com/ejcho3792/TIL/blob/master/pytorch/README.md)
+* ## [Pytorch](https://github.com/ejcho3792/TIL/blob/master/pytorch/README.md)   
+    * #### [Wine Classification](https://github.com/ejcho3792/TIL/blob/master/pytorch/sklearn_wine.ipynb)   
+
+
+
+
+    
