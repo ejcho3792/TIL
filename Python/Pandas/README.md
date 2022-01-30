@@ -11,7 +11,8 @@
 ### [7. 자료형](#자료형)   
 ### [8. 문자열 처리](#문자열-처리)   
 ### [9. apply 메서드](#apply-메서드)   
-
+### [10. 그룹 연산](#그룹-연산)   
+### [11. 시계열 데이터](#시계열-데이터)   
 ---
 * #### [판다스 기초](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
 ##### 1. 데이터 불러오기 ( read_csv )
@@ -84,3 +85,16 @@ df.plot.hexbin(),df.plot.box()
 ##### 4. 정규식( compile )   
 
 * #### [apply 메서드](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_10.ipynb)   
+##### 1. 간단한 함수 만들기   
+##### 2. apply 메서드 1   
+##### 3. apply 메서드 2   
+
+* #### [그룹 연산](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_11.ipynb)   
+##### 1. 데이터 집계 ( groupby )   
+##### 2. 데이터 변환   
+##### 3. 데이터 필터링 ( filter )   
+##### 4. 그룹 오브젝트   
+
+* #### [시계열 데이터](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_12.ipynb)   
+##### 1. datetime 오브젝트   
+##### 2. 사례별 시계열 데이터 계산하기   
