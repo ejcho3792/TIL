@@ -46,10 +46,11 @@
         * #### [데이터 연결](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_5.ipynb)
         * #### [누락값 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_6.ipynb)
         * #### [데이터 정리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_7.ipynb)
-
-
-
-
+        * #### [자료형](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_8.ipynb)
+        * #### [문자열 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_9.ipynb)   
+        * #### [apply 메서드](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_10.ipynb)   
+        * #### [그룹 연산](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_11.ipynb)   
+        * #### [시계열 데이터](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_12.ipynb)   
     ---
 
     * ### [Data analysis](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/README.md)

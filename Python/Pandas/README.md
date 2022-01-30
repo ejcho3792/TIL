@@ -8,7 +8,9 @@
 ### [4. 데이터 연결](#데이터-연결)   
 ### [5. 누락값 처리](#누락값-처리)   
 ### [6. 데이터 정리](#데이터-정리)   
-
+### [7. 자료형](#자료형)   
+### [8. 문자열 처리](#문자열-처리)   
+### [9. apply 메서드](#apply-메서드)   
 
 ---
 * #### [판다스 기초](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_2.ipynb)
@@ -71,7 +73,14 @@ df.plot.hexbin(),df.plot.box()
 ##### 4. 중복데이터 처리   
 ##### 5. 대용량 데이터 처리   
 
+* #### [자료형](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_8.ipynb)   
+##### 1. 자료형 다루기 ( astype )   
+##### 2. 카테고리 자료형   
 
+* #### [문자열 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_9.ipynb)   
+##### 1. 문자열 다루기   
+##### 2. 문자열 메서드 ( join, splitlines, replace )   
+##### 3. 문자열 포매팅   
+##### 4. 정규식( compile )   
 
-
-
+* #### [apply 메서드](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_10.ipynb)   
