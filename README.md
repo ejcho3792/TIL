@@ -45,6 +45,10 @@
         * #### [그래프 그리기](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_4.ipynb)
         * #### [데이터 연결](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_5.ipynb)
         * #### [누락값 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_6.ipynb)
+        * #### [데이터 정리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_7.ipynb)
+
+
+
 
     ---
 

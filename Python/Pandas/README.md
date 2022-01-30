@@ -7,7 +7,7 @@
 ### [3. 그래프 그리기](#그래프-그리기)   
 ### [4. 데이터 연결](#데이터-연결)   
 ### [5. 누락값 처리](#누락값-처리)   
-
+### [6. 데이터 정리](#데이터-정리)   
 
 
 ---
@@ -55,11 +55,23 @@ df.plot.hexbin(),df.plot.box()
 (3) 다양한 연결방법 사용 (ignore_index, join)   
 ##### 3. 데이터 연결 ( merge method )
 
-* #### [누락값 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_6.ipynb)
+* #### [누락값 처리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_6.ipynb)   
 ##### 1. 누락값 확인하기 ( isnull, notnull method )   
 ##### 2. 누락값이 생기는 이유   
-##### 3. 누락값의 개수 구하기 ( count_nonzero, isnull value_count method )
-##### 4. 누락값 처리하기
+##### 3. 누락값의 개수 구하기 ( count_nonzero, isnull value_count method )   
+##### 4. 누락값 처리하기   
 (1) 누락값 변경하기 (fillna, interpolate method)   
 (2) 누락값 삭제하기 (dropna method)   
-##### 5. 누락값이 포함된 데이터 계산하기
+##### 5. 누락값이 포함된 데이터 계산하기   
+
+* #### [데이터 정리](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_7.ipynb)   
+##### 1. 열과 피벗 ( melt )   
+##### 2. 열이름 관리하기( concat )   
+##### 3. 열을 하나로 정리하기   
+##### 4. 중복데이터 처리   
+##### 5. 대용량 데이터 처리   
+
+
+
+
+
