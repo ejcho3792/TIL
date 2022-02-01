@@ -91,7 +91,7 @@
     
     * ### [OpenCV](https://github.com/ejcho3792/TIL/blob/master/opencv/README.md)
         * #### [OpenCV Intro](https://github.com/ejcho3792/TIL/blob/master/opencv/Ch_1_OpenCV_intro.ipynb)   
-        * #### [2. OpenCV Basic](https://github.com/ejcho3792/TIL/blob/master/opencv/Ch_2_OpenCV_basic.ipynb)   
+        * #### [OpenCV Basic](https://github.com/ejcho3792/TIL/blob/master/opencv/Ch_2_OpenCV_basic.ipynb)   
 
 
 
