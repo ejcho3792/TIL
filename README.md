@@ -110,8 +110,9 @@
 ---
 * ## [Pytorch](https://github.com/ejcho3792/TIL/blob/master/pytorch/README.md)   
     * #### [Wine Classification](https://github.com/ejcho3792/TIL/blob/master/pytorch/sklearn_wine.ipynb)   
-
-
+    * #### [Wine Classification DNN](https://github.com/ejcho3792/TIL/blob/master/pytorch/sklearn_wine_DNN.ipynb)   
+    * #### [손글씨 분류](https://github.com/ejcho3792/TIL/blob/master/pytorch/sklearn_digits.ipynb)   
+    * #### [뉴스 분류](https://github.com/ejcho3792/TIL/blob/master/pytorch/News_dataset.ipynb)   
 
 
     
