@@ -52,6 +52,12 @@
         * #### [그룹 연산](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_11.ipynb)   
         * #### [시계열 데이터](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_12.ipynb)   
     ---
+    * ### [Scikit learn](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/README.md)
+
+
+
+
+
 
     * ### [Data analysis](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/README.md)
         * #### [파이썬 기초](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA00_python_tutorial/DA01_python_basic.ipynb)
