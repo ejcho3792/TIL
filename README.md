@@ -67,7 +67,7 @@
         * #### [Hierachical clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_11.ipynb)
         * #### [DBSCAN](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_12.ipynb)   
         * #### [PCA](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_13.ipynb)   
-        
+    ---
 
     * ### [Data analysis](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/README.md)
         * #### [파이썬 기초](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA00_python_tutorial/DA01_python_basic.ipynb)
