@@ -1,6 +1,6 @@
 # scikit learn machine learning
 ---
-##INDEX   
+# INDEX   
 ### [01. Load dataset](#load-dataset)   
 ### [02. correlation coefficient](#correlation-coefficient)   
 ### [03. Linear regression](#linear-regression)   
@@ -10,8 +10,9 @@
 ### [07. SVM](#svm-support-vector-machine)   
 ### [08. Naive Bayes](#naive-bayes)   
 ### [09. Decision Tree](#decision-tree)   
-### [10. k-means clustering](#kmeans-clustering)   
-### [6. knn](#knn-k-nearest-neighbor)   
+### [10. k-means clustering](#k-means-clustering)   
+
+### [11. Hierachical Clustering](#hierachical-clustering)   
 ### [6. knn](#knn-k-nearest-neighbor)   
 ### [6. knn](#knn-k-nearest-neighbor)   
 
@@ -72,11 +73,15 @@
 * #### [Decision Tree](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_09.ipynb)   
 ##### 1. Decision tree weather data   
 ##### 2. Decision tree iris data   
+
 * #### [k-means clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_10.ipynb)   
-#####
-#####
-#####
-#####
+##### 1. k-means clustering   
+##### 2. k-means clustering 비선형 경계   
+##### 3. k-means clustering digits dataset   
+##### 4. k-means clustering iris dataset   
+
+* #### [Hierachical clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_10.ipynb)   
+
 #####
 #####
 
