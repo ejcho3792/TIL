@@ -13,6 +13,7 @@
 ##### [(3) Data analysis](#data-analysis)   
 ##### [(4) Data crawling](#data-crawling)   
 ##### [(5) OpenCV](#opencv)   
+##### [(6) Scikit learn](#scikit-learn)
 ### [4. Java](#java)   
 ### [5. Machine Learning](#machine-learning)   
 ### [6. Pytorch](#pytorch)   
@@ -62,10 +63,11 @@
         * #### [SVM support vector machine](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_07.ipynb)
         * #### [Naive Bayes](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_08.ipynb)
         * #### [Decision Tree](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_09.ipynb)   
-        * #### [k-means clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_10.ipynb)   
-
-
-
+        * #### [k means clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_10.ipynb)   
+        * #### [Hierachical clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_11.ipynb)
+        * #### [DBSCAN](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_12.ipynb)   
+        * #### [PCA](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_13.ipynb)   
+        
 
     * ### [Data analysis](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/README.md)
         * #### [파이썬 기초](https://github.com/ejcho3792/TIL/blob/master/Data_analysis_python/DA00_python_tutorial/DA01_python_basic.ipynb)

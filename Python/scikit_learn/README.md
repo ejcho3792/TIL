@@ -13,8 +13,8 @@
 ### [10. k-means clustering](#k-means-clustering)   
 
 ### [11. Hierachical Clustering](#hierachical-clustering)   
-### [6. knn](#knn-k-nearest-neighbor)   
-### [6. knn](#knn-k-nearest-neighbor)   
+### [12. DBSCAN](#dbscan)   
+### [13. PCA](#pca)   
 
 
 
@@ -74,15 +74,19 @@
 ##### 1. Decision tree weather data   
 ##### 2. Decision tree iris data   
 
-* #### [k-means clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_10.ipynb)   
+* #### [k means clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_10.ipynb)   
 ##### 1. k-means clustering   
 ##### 2. k-means clustering 비선형 경계   
 ##### 3. k-means clustering digits dataset   
 ##### 4. k-means clustering iris dataset   
 
-* #### [Hierachical clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_10.ipynb)   
+* #### [Hierachical clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_11.ipynb)   
+##### 1. Hierachical clustering   
 
-#####
+* #### [DBSCAN](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_12.ipynb)   
+##### 1. DBSCAN   
+
+* #### [PCA](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_13.ipynb)   
 #####
 
 
