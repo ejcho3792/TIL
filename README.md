@@ -53,8 +53,16 @@
         * #### [시계열 데이터](https://github.com/ejcho3792/TIL/blob/master/Python/Pandas/pandas_basic_12.ipynb)   
     ---
     * ### [Scikit learn](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/README.md)
-
-
+        * #### [Load dataset](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_01.ipynb)
+        * #### [correlation coefficient](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_02.ipynb)
+        * #### [Linear regression](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_03.ipynb)
+        * #### [iris data linear regression](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_04.ipynb)
+        * #### [logistic regression](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_05.ipynb)
+        * #### [knn k nearest neighbor](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_06.ipynb)
+        * #### [SVM support vector machine](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_07.ipynb)
+        * #### [Naive Bayes](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_08.ipynb)
+        * #### [Decision Tree](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_09.ipynb)   
+        * #### [k-means clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_10.ipynb)   
 
 
 

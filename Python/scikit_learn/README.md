@@ -1,16 +1,16 @@
 # scikit learn machine learning
 ---
 ##INDEX   
-### [1. Load dataset](#load-dataset)   
-### [2. correlation coefficient](#correlation-coefficient)   
-### [3. Linear regression](#linear-regression)   
-### [4. Iris data linear regression](#iris-data-linear-regression)   
-### [5. Logistic regression](#logistic-regression)   
-### [6. knn](#knn-k-nearest-neighbor)   
-### [7. SVM](#svm-support-vector-machine)   
-### [8. Naive Bayes](#naive-bayes)   
-### [6. knn](#knn-k-nearest-neighbor)   
-### [6. knn](#knn-k-nearest-neighbor)   
+### [01. Load dataset](#load-dataset)   
+### [02. correlation coefficient](#correlation-coefficient)   
+### [03. Linear regression](#linear-regression)   
+### [04. Iris data linear regression](#iris-data-linear-regression)   
+### [05. Logistic regression](#logistic-regression)   
+### [06. knn](#knn-k-nearest-neighbor)   
+### [07. SVM](#svm-support-vector-machine)   
+### [08. Naive Bayes](#naive-bayes)   
+### [09. Decision Tree](#decision-tree)   
+### [10. k-means clustering](#kmeans-clustering)   
 ### [6. knn](#knn-k-nearest-neighbor)   
 ### [6. knn](#knn-k-nearest-neighbor)   
 ### [6. knn](#knn-k-nearest-neighbor)   
@@ -69,12 +69,10 @@
 ##### 5. 모델 학습 (MultinomialNB)   
 ##### 6. 성능평가   
 
-
-
-
-
-#####
-#####
+* #### [Decision Tree](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_09.ipynb)   
+##### 1. Decision tree weather data   
+##### 2. Decision tree iris data   
+* #### [k-means clustering](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_10.ipynb)   
 #####
 #####
 #####
