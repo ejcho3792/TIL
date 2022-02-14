@@ -16,8 +16,6 @@
 ### [12. DBSCAN](#dbscan)   
 ### [13. PCA](#pca)   
 
-
-
 ---
 * #### [Load dataset](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_01.ipynb)   
 ##### 1. iris dataset ( load_iris )   
@@ -87,15 +85,6 @@
 ##### 1. DBSCAN   
 
 * #### [PCA](https://github.com/ejcho3792/TIL/blob/master/Python/scikit_learn/sklearn_exe_13.ipynb)   
-#####
-
-
-
-
-
-
-
-
-
-
-
+##### 1. PCA   
+##### 2. 차원축소   
+##### 3. 특징추출   
