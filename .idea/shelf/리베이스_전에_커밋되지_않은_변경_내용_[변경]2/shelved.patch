@@ -1,0 +1,275 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"9d39c924-20c8-46db-b0d1-512a8af8e1df\" name=\"변경\" comment=\"[220219] add commit\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"HARD\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"24NMoVNBsWNeWeeu1erXwf4oBDR\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"애플리케이션 수준\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"디폴트 작업\">\r\n      <changelist id=\"9d39c924-20c8-46db-b0d1-512a8af8e1df\" name=\"변경\" comment=\"\" />\r\n      <created>1643466766069</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1643466766069</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"[220129] add commit\">\r\n      <created>1643467088748</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1643467088748</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"[220219] add commit\">\r\n      <created>1645262661708</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1645262661708</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Revert &quot;[220219] add commit&quot;&#10;&#10;This reverts commit d249f0f9\">\r\n      <created>1645262752402</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1645262752402</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"[220129] add commit\" />\r\n    <MESSAGE value=\"[220219] add commit\" />\r\n    <MESSAGE value=\"Revert &quot;[220219] add commit&quot;&#10;&#10;This reverts commit d249f0f9\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Revert &quot;[220219] add commit&quot;&#10;&#10;This reverts commit d249f0f9\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,13 +1,238 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="9d39c924-20c8-46db-b0d1-512a8af8e1df" name="변경" comment="[220219] add commit" />
++    <list default="true" id="9d39c924-20c8-46db-b0d1-512a8af8e1df" name="변경" comment="add commit">
++      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/2022-02-19__6_24__________.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/2022-02-19_오후_6_24,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/2019년 01월  교통카드 통계자료.xls" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/2022-02-19_오후_6_24,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/________.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/리베이스_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/리베이스_전에_커밋되지_않은_변경_내용_[변경]1/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/PowerBI/class_exe/FY2021.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/PowerBI/class_exe/Korea_Simple.json" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/PowerBI/class_exe/데이터 변환.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/PowerBI/class_exe/매출데이터.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/PowerBI/class_exe/측정값_DAX 수식.txt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/PowerBI/class_exe/판매관리.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_.zip" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/18_20_travel.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/18년부터분기별자치구인구.xls" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/19_21외식업.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/20.01부터월별자치구별인구.xls" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/2021년 3분기 _ 2018년 1분기 신행복지수 데이터.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/2021년 3분기 ~ 2018년 1분기 신행복지수 데이터.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/220120+빅데이터+활용+외식업+경기분석+(`21.11월+데이터+기준).pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/A반_빅데이터분석PJT_4조_기획안.docx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/[보도참고자료]_코로나19_정신건강_실태조사_발표.hwp" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/house_1822.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/house_price (1).xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/1.1보고서-2018년 3분기 신행복지수.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/12.14보고서-2020년 3분기 신행복지수.hwp" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/12.9보고서-2019년 3분기 신행복지수.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/2021년 3분기 신행복지수.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/3.16보고서-2019년 4분기 신행복지수.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/4.1보고서-2018년 4분기 신행복지수.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/6.22보고서-2020년 1분기 신행복지수.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/7.1보고서- 2019년 1분기 신행복지수 1.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/9.212020년 2분기 신행복지수.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/9.30보고서-2019년 2분기 신행복지수.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/보고서-2018년 1분기 신행복지수.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/보고서-2018년 2분기 신행복지수.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/보고서-2021년 1분기 신행복지수.hwp" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/new_data/보고서-2021년 2분기 신행복지수.hwp" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/seoul_corona.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/seoul_culture_cost.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/seoul_culture_count.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/(유저가이드)15차년도 조사자료 유저가이드.pdf" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/data_preprocessing.ipynb" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/dataset/Koweps_hpc13_2018_beta3.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/dataset/Koweps_hpda12_2017_beta4.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/dataset/Koweps_hpda15_2020_beta1.1.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/dataset/Koweps_hpwc14_2019_beta2.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2017/12차 데이터파일설명(beta4).txt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2017/Koweps_da12_2017_beta4.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2017/Koweps_h12_2017_beta4.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2017/Koweps_hpda12_2017_beta4.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2017/Koweps_p12_2017_beta4.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2018/13차 데이터파일설명(beta3).txt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2018/Koweps_c13_2018_beta3.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2018/Koweps_h13_2018_beta3.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2018/Koweps_hpc13_2018_beta3.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2018/Koweps_p13_2018_beta3.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2019/14차 데이터파일설명(beta2).txt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2019/Koweps_h14_2019_beta2.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2019/Koweps_hpwc14_2019_beta2.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2019/Koweps_p14_2019_beta2.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2019/Koweps_wc14_2019_beta2.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2020/15차 데이터파일설명(beta1.1).txt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2020/Koweps_da15_2020_beta1.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2020/Koweps_h15_2020_beta1.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2020/Koweps_hpda15_2020_beta1.1.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/복지패널조사_데이터/sav2020/Koweps_p15_2020_beta1.sav" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/분기별 자치구 확진자.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/분기별 자치구 확진자_ver2.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/서울특별시 코로나19 자치구별 확진자 발생동향.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/신행복지수.zip" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/우울감.xls" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/01.매매가격지수/월간_계절조정_매매가격지수_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/01.매매가격지수/월간_매매가격지수_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/02.전월세통합지수/월간_전월세통합지수_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/03.전세가격지수/월간_계절조정_전세가격지수_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/03.전세가격지수/월간_전세가격지수_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/04.월세가격지수/월간_월세가격지수_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/04.월세가격지수/월간_월세통합가격지수_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/04.월세가격지수/월간_준월세가격지수_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/04.월세가격지수/월간_준전세가격지수_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/05.매매가격/중위단위매매가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/05.매매가격/중위매매가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/05.매매가격/평균단위매매가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/05.매매가격/평균매매가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/06.전세가격/중위단위전세가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/06.전세가격/중위전세가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/06.전세가격/평균단위전세가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/06.전세가격/평균전세가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/07.월세가격/중위월세가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/07.월세가격/중위월세보증금_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/07.월세가격/평균월세가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/07.월세가격/평균월세보증금_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/08.매매가격 대비 전세가격/매매가격대비전세가격_중위가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/08.매매가격 대비 전세가격/매매가격대비전세가격_평균가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/09.전세가격 대비 보증금/전세가격대비보증금_중위가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/09.전세가격 대비 보증금/전세가격대비보증금_평균가격_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/10.수급동향/월간_매매수급동향_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/10.수급동향/월간_전세수급동향_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/10.수급동향/월세수급동향_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/01.주택_월간_종합/11.기타/5분위배율_종합.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/01.매매가격지수/규모별_매매가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/01.매매가격지수/연령별_매매가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/01.매매가격지수/월간_계절조정_매매가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/01.매매가격지수/월간_매매가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/02.전월세통합지수/월간_전월세통합지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/03.전세가격지수/규모별_전세가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/03.전세가격지수/연령별_전세가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/03.전세가격지수/월간_계절조정_전세가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/03.전세가격지수/월간_전세가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/04.월세가격지수/규모별_월세가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/04.월세가격지수/연령별_월세가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/04.월세가격지수/월간_월세가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/04.월세가격지수/월간_월세통합가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/04.월세가격지수/월간_준월세가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/04.월세가격지수/월간_준전세가격지수_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/05.매매가격/중위단위매매가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/05.매매가격/중위매매가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/05.매매가격/평균단위매매가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/05.매매가격/평균매매가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/06.전세가격/중위단위전세가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/06.전세가격/중위전세가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/06.전세가격/평균단위전세가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/06.전세가격/평균전세가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/07.월세가격/중위월세가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/07.월세가격/중위월세보증금_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/07.월세가격/평균월세가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/07.월세가격/평균월세보증금_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/08.매매가격 대비 전세가격/매매가격대비전세가격_중위가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/08.매매가격 대비 전세가격/매매가격대비전세가격_평균가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/09.전세가격 대비 보증금/전세가격대비보증금_중위가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/09.전세가격 대비 보증금/전세가격대비보증금_평균가격_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/10.수급동향/월간_매매수급동향_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/10.수급동향/월간_전세수급동향_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/10.수급동향/월세수급동향_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/02.주택_월간_아파트/11.기타/5분위배율_아파트.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/01.매매가격지수/규모별_매매가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/01.매매가격지수/연령별_매매가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/01.매매가격지수/월간_계절조정_매매가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/01.매매가격지수/월간_매매가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/02.전월세통합지수/월간_전월세통합지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/03.전세가격지수/규모별_전세가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/03.전세가격지수/연령별_전세가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/03.전세가격지수/월간_계절조정_전세가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/03.전세가격지수/월간_전세가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/04.월세가격지수/규모별_월세가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/04.월세가격지수/연령별_월세가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/04.월세가격지수/월간_월세가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/04.월세가격지수/월간_월세통합가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/04.월세가격지수/월간_준월세가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/04.월세가격지수/월간_준전세가격지수_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/05.매매가격/중위단위매매가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/05.매매가격/중위매매가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/05.매매가격/평균단위매매가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/05.매매가격/평균매매가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/06.전세가격/중위단위전세가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/06.전세가격/중위전세가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/06.전세가격/평균단위전세가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/06.전세가격/평균전세가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/07.월세가격/중위월세가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/07.월세가격/중위월세보증금_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/07.월세가격/평균월세가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/07.월세가격/평균월세보증금_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/08.매매가격 대비 전세가격/매매가격대비전세가격_중위가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/08.매매가격 대비 전세가격/매매가격대비전세가격_평균가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/09.전세가격 대비 보증금/전세가격대비보증금_중위가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/09.전세가격 대비 보증금/전세가격대비보증금_평균가격_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/10.수급동향/월간_매매수급동향_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/10.수급동향/월간_전세수급동향_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/03.주택_월간_연립다세대/10.수급동향/월세수급동향_연립다세대.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/01.매매가격지수/규모별_매매가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/01.매매가격지수/연령별_매매가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/01.매매가격지수/월간_계절조정_매매가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/01.매매가격지수/월간_매매가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/02.전월세통합지수/월간_전월세통합지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/03.전세가격지수/규모별_전세가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/03.전세가격지수/연령별_전세가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/03.전세가격지수/월간_계절조정_전세가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/03.전세가격지수/월간_전세가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/04.월세가격지수/규모별_월세가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/04.월세가격지수/월간_월세가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/04.월세가격지수/월간_월세통합가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/04.월세가격지수/월간_준월세가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/04.월세가격지수/월간_준전세가격지수_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/05.매매가격/중위단위매매가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/05.매매가격/중위매매가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/05.매매가격/평균단위매매가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/05.매매가격/평균매매가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/06.전세가격/중위단위전세가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/06.전세가격/중위전세가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/06.전세가격/평균단위전세가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/06.전세가격/평균전세가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/07.월세가격/중위월세가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/07.월세가격/중위월세보증금_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/07.월세가격/평균월세가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/07.월세가격/평균월세보증금_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/08.매매가격 대비 전세가격/매매가격대비전세가격_중위가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/08.매매가격 대비 전세가격/매매가격대비전세가격_평균가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/09.전세가격 대비 보증금/전세가격대비보증금_중위가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/09.전세가격 대비 보증금/전세가격대비보증금_평균가격_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/10.수급동향/월간_매매수급동향_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/10.수급동향/월간_전세수급동향_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/전국주택가격동향조사_202201/04.주택_월간_단독/10.수급동향/월세수급동향_단독.xlsx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/프레젠테이션1.pptx" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/한국언론진흥재단_코로나19이후국민의일상변화조사_코로나19 이후 일상 활동 변화_20201231.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_01_/한국언론진흥재단_코로나19이후국민의일상변화조사_코로나19로 인한 감정 변화_20201231.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_predict_future_sales/Untitled.ipynb" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_predict_future_sales/competitive-data-science-predict-future-sales.zip" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_predict_future_sales/competitive-data-science-predict-future-sales/item_categories.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_predict_future_sales/competitive-data-science-predict-future-sales/items.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_predict_future_sales/competitive-data-science-predict-future-sales/sales_train.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_predict_future_sales/competitive-data-science-predict-future-sales/sample_submission.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_predict_future_sales/competitive-data-science-predict-future-sales/shops.csv" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Python/pjt_predict_future_sales/competitive-data-science-predict-future-sales/test.csv" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/ProDS/Set01_Set05_수정(1).py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/ProDS/Set06_Set10_수정(1).py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/ProDS/Set11_Set15_수정(1).py" beforeDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="02320d002ef9439b20f1713f709e4fee951e5b26" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="RESET_MODE" value="HARD" />
+   </component>
+@@ -62,9 +287,16 @@
+   <component name="Vcs.Log.Tabs.Properties">
+     <option name="TAB_STATES">
+       <map>
+-        <entry key="MAIN">
++        <entry key="7bbf0dfc-258a-496c-99d7-41adabe6c102">
+           <value>
+             <State />
++          </value>
++        </entry>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="BEK_SORT_TYPE" value="1" />
++            </State>
+           </value>
+         </entry>
+       </map>
+@@ -74,6 +306,6 @@
+     <MESSAGE value="[220129] add commit" />
+     <MESSAGE value="[220219] add commit" />
+     <MESSAGE value="Revert &quot;[220219] add commit&quot;&#10;&#10;This reverts commit d249f0f9" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;[220219] add commit&quot;&#10;&#10;This reverts commit d249f0f9" />
++    <option name="LAST_COMMIT_MESSAGE" value="" />
+   </component>
+ </project>
+\ No newline at end of file
