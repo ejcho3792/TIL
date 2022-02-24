@@ -1,2 +1,3 @@
-['nm'*10,'b'*5,'d'*3]
-['nm']*10+['b']*5
+import pandas as pd
+
+d=pd.read_csv('D:/TIL/Python/pjt_01_/analysis_data.xlsx')
