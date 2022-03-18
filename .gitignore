@@ -12,4 +12,6 @@ PowerBI/class_exe/판매관리.xlsx
 PowerBI/class_exe/Korea_Simple.json
 PowerBI/class_exe/Sales & Returns Sample v201912.pbi
 
-./tensorflow/dogs-vs-cats-redux-kernels-edition/dogs-vs-cats-redux-kernels-edition/*
+*/dogs_vs_cats_redux_kernels_edition/train/*
+*/dogs_vs_cats_redux_kernels_edition/test/*
+*/dogs_vs_cats_redux_kernels_edition/sample_submission.csv/*
