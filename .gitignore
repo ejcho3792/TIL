@@ -3,4 +3,4 @@
 .idea
 .idea/*.xml
 */.idea/*
-tensorflow/dogs_vs_cats_redux_kernels_edition/dogs-vs-cats-redux-kernels-edition/
+tensorflow/dogs_vs_cats_redux_kernels_edition/dataset/
