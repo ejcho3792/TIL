@@ -4,3 +4,12 @@
 .idea/*.xml
 */.idea/*
 tensorflow/dogs_vs_cats_redux_kernels_edition/dataset/
+react_app/.gitignore
+tensorflow/pjt07/logs/n_1.h5
+tensorflow/pjt07/logs/n_2.h5
+tensorflow/pjt07/logs/n_del.h5
+tensorflow/pjt07/keras_model.h5
+tensorflow/pjt07/i0.jpg
+tensorflow/pjt07/i1.jpg
+tensorflow/pjt07/i2.jpg
+tensorflow/pjt07/i3.jpg
