@@ -14,3 +14,6 @@ tensorflow/pjt07/i1.jpg
 tensorflow/pjt07/i2.jpg
 tensorflow/pjt07/i3.jpg
 /tensorflow/pjt07/shampoo_naver_10page.xlsx
+tensorflow/pjt07/logs/f_resnet_1.h5
+.gitignore
+tensorflow/pjt07/logs/f_resnet_2.h5
