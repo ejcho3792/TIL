@@ -17,3 +17,4 @@ tensorflow/pjt07/i3.jpg
 tensorflow/pjt07/logs/f_resnet_1.h5
 .gitignore
 tensorflow/pjt07/logs/f_resnet_2.h5
+tensorflow/pjt07/logs/f_resnet_0.h5
