@@ -18,3 +18,5 @@ tensorflow/pjt07/logs/f_resnet_1.h5
 .gitignore
 tensorflow/pjt07/logs/f_resnet_2.h5
 tensorflow/pjt07/logs/f_resnet_0.h5
+tensorflow/pjt07/tst_conv/logs/dry.h5
+tensorflow/pjt07/tst_conv/logs/hairloss.h5
